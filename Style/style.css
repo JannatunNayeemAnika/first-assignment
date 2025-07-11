@@ -81,7 +81,7 @@ header{
     font-size:42px;
     font-weight: bold;
     color: #252432;
-    padding-top:62px ;
+    padding-top:45px ;
     margin-bottom: 23px;
 }
 .banner-des{
@@ -104,4 +104,44 @@ header{
     margin-left: 141px;
     margin-right: 169px;
     margin-top: 116px;
+}
+.item-title{
+    font-size: 80px;
+    font-weight: bold;
+    color: #4E47FF;
+
+}
+.item-description{
+    font-size: 20px;
+    font-weight: normal;
+    color: #747272;
+
+
+}
+.heading-part{
+    font-size: 38px;
+    font-weight: bold;
+    color: #252432;
+    padding-top:50px;
+
+}
+.about-items{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap:30px;
+    padding-bottom: 50px;
+}
+.spec{
+    background-color: #E5E7FF;
+    margin:116px 141px;
+}
+.newimg{
+    size:10px;
+}
+.skill{
+    justify-content: center;
+    text-align: center;
+    font-size:42px #252432;
+    font-weight:bold ;
 }
