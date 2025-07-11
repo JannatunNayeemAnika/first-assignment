@@ -145,3 +145,14 @@ header{
     font-size:42px #252432;
     font-weight:bold ;
 }
+.imagenext{
+    size: 15px;
+    border-radius: 50px;
+}
+.new-class{
+  display: flex ;
+}
+.main{
+    justify-content: center;
+    text-align: left;
+}
