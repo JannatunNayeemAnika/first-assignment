@@ -1,0 +1,107 @@
+/* heading part */
+
+
+.raleway-normal> {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+nav ul li a{
+    text-decoration: none;
+}
+nav ul{
+    list-style: none;
+}
+
+ul{
+    display:flex;
+    align-items: center;
+    justify-content:space-between;
+}
+
+.hd-textone {
+     color: #4751FF;
+      ;   /* ekhane logo ache */
+}
+.hd-text{
+    font-size: 34px; ;
+    font-weight:bold;
+    
+}
+
+
+.button-design{
+   
+    background-color:#4751FF;
+    font-weight: bold;
+    font-size:16px;
+    color: white;
+    padding:12px 36px;
+    border-radius: 10px;
+    border: none;
+    margin-right: 150px;
+    margin-top:30px;
+    
+    
+}
+.newbutto{
+    margin-top:37px ;
+    margin-bottom: 152px;
+    margin-left: 75px;
+}
+* {
+  margin: 0;
+  padding:0px;
+  max-width:100%;
+}
+nav{
+    width: 100vw;
+}
+.heading-part{
+  font-size: 65px;
+    font-weight: bold;
+    color:#252432;
+    text-align: center;
+    justify-content: center;
+    margin-top: 158px;
+}
+.division{
+   text-align: center;
+    justify-content: center;
+}
+header{
+    background-image:url(../B12A01-landing-launchpad/Assets/Hero-bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:;
+}
+.banner-greetings{
+    font-size:42px;
+    font-weight: bold;
+    color: #252432;
+    padding-top:62px ;
+    margin-bottom: 23px;
+}
+.banner-des{
+    font-size:24px;
+    font-weight: normal;
+    color: #848388;
+    
+}
+
+.imge{
+    width: 403px;
+    border-radius: 48px;
+    border: none;
+
+}
+.banner-content{
+    display:flex;
+    align-items: center;
+    justify-content:space-between;
+    margin-left: 141px;
+    margin-right: 169px;
+    margin-top: 116px;
+}
